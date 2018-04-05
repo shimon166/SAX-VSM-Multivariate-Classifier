@@ -7,7 +7,7 @@ Changed Classes:
 * SAX_VSM_Classifier_MultiVariate_Edited.java
 
 Test:
-* TestRunnerMultiVar.java 
+* TestRunnerMultiVar.java - 
 Actualy is just test that i made for dataset named "Human Activity Recognition Using Smartphones Data Set" that combine x,y,z features from 3 different axes
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones#
 
