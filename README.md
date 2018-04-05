@@ -1,3 +1,19 @@
+## SAX-VSM Multivariate public code release
+
+This implementation belongs to Jmotif and the only change i made for my own usage is to support SAX VSM Classifier for Multivariate problems like axis (x,y,z), multi sensors, etc.
+
+Changed Classes:
+* SAX_VSM_Classifier_Edited.java
+* SAX_VSM_Classifier_MultiVariate_Edited.java
+
+Test:
+* TestRunnerMultiVar.java 
+Actualy is just test that i made for dataset named "Human Activity Recognition Using Smartphones Data Set" that combine x,y,z features from 3 different axes
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones#
+
+
+
+
 ## SAX-VSM public code release
 
 [![Build Status](https://travis-ci.org/jMotif/sax-vsm_classic.svg?branch=master)](https://travis-ci.org/jMotif/sax-vsm_classic)
